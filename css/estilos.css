@@ -1,0 +1,15 @@
+html, body{
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+}
+main, section{
+    height: 100%;
+}
+
+#contenedor-img{
+    max-height: 35%;
+}
+#contenedor-contenido{
+    height: 65%;
+}
