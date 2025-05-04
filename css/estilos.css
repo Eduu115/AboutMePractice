@@ -6,10 +6,26 @@ html, body{
 main, section{
     height: 100%;
 }
-
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 #contenedor-img{
     max-height: 35%;
 }
 #contenedor-contenido{
     height: 65%;
+}
+#asideCard{
+    height: max-content;
+}
+#presentacion{
+    text-align: justify;
+}
+a{
+    transition: color;
+    transition-duration: 0.5s;
+    
+}
+a:hover{
+    color: black;
 }

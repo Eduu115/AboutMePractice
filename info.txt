@@ -1,0 +1,9 @@
+El proyecto tiene que ser completamente RESPONDIVE y debe contener: 
+
+    Grid --
+    Card en el de content hacer una card a la derecha con links tipo aside
+    Button 
+    Link
+    Spacing
+    Color
+    Background
